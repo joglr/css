@@ -1,3 +1,5 @@
-.ace-editor-body {
-  color: red !important;
+.ace-kuroir {
+  background-color: #E8E9E8 !important;
+  color: hsl(0deg 0% 30%) !important;
+  font-family: "Comic Sans MS" !important;
 }
